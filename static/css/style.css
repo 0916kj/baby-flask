@@ -5,6 +5,13 @@ h1 {
     padding: 10px;
     font-size: 60px;
 }
+
+body {
+    background:#000759;  
+    font-size: 48px;
+    margin:0;
+    padding:0;
+}
 .container {
     align-items: center;
     display: flex;
@@ -13,5 +20,5 @@ h1 {
     min-height: 100vh;
     position: relative;
     text-align: center;
-    width: 100vw;
+    padding: 5px;
 }
